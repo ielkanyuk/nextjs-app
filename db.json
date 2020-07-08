@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {"id": 1, "title": "Lorem ipsum post (part 1)", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi faucibus blandit tellus, ac luctus magna tempor a. Etiam pulvinar, lacus non mollis luctus, augue ipsum maximus lorem, ac mattis est justo malesuada quam. Maecenas eget feugiat libero, in elementum diam. Quisque ac dignissim erat. Maecenas imperdiet magna quis erat faucibus, sit amet pulvinar est porttitor. Praesent nec egestas arcu. Proin vitae mattis urna, quis bibendum dolor. Duis eleifend vulputate diam nec cursus. Suspendisse vitae dolor nulla."},
+    {"id": 2, "title": "Lorem ipsum post (part 2)", "body": "Praesent sit amet elementum velit. Aenean malesuada ac felis elementum tristique. Fusce et sem massa. Vestibulum ut ex diam. Proin eget tortor eget ante sagittis tincidunt. Nulla quam est, mattis non facilisis eu, aliquet ac nulla. Sed pulvinar, massa quis rutrum sagittis, ligula leo scelerisque ligula, ac elementum sem ante non risus. Ut vel urna efficitur, consectetur dui eu, pharetra nulla. Quisque consequat ornare augue, a luctus sapien viverra ultrices. Ut lobortis mauris magna, et aliquam augue facilisis faucibus. Pellentesque felis erat, bibendum sit amet ipsum ac, tincidunt fermentum tortor. Cras tincidunt diam ut est feugiat gravida."},
+    {"id": 3, "title": "Lorem ipsum post (part 3)", "body": "Proin imperdiet sagittis pellentesque. Vivamus vitae lacinia erat. Quisque quis diam vitae metus pellentesque ullamcorper non cursus est. Aliquam a libero vestibulum, sodales purus at, tristique magna. Vivamus sem erat, ornare nec massa viverra, elementum tempor ex. Nulla porta accumsan faucibus. Quisque placerat justo vel nisl pulvinar scelerisque. Suspendisse egestas felis lacus, ultrices hendrerit ante molestie eget. Maecenas faucibus gravida blandit. Suspendisse eget suscipit purus. Aenean sollicitudin vel tellus vitae sodales. Maecenas id consequat orci, ut finibus est."}
+  ],
+  "about": {
+    "title": "About page"
+  }
+}
